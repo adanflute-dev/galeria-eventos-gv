@@ -1,20 +1,17 @@
-fetch('eventos.json')
-  .then(r => r.json())
+fetch("https://seusite.com/api/eventos.php")
+  .then(res => res.json())
   .then(eventos => {
-    const galeria = document.getElementById('galeria');
+    const galeria = document.getElementById("galeria")
+    galeria.innerHTML = ""
 
     eventos.forEach(ev => {
-      const card = document.createElement('div');
-      card.className = 'card';
-
-      card.innerHTML = `
-        <img src="${ev.imagem}" alt="${ev.titulo}">
-        <h3>${ev.titulo}</h3>
-        <span class="tag">${ev.categoria}</span>
-        <p>📍 ${ev.local}</p>
-        <p>📅 ${ev.data} — ${ev.hora}</p>
-      `;
-
-      galeria.appendChild(card);
-    });
-  });
+      galeria.innerHTML += `
+        <div class="card">
+          <img src="${ev.image}">
+          <h3>${ev.title}</h3>
+          <p>${ev.location}</p>
+          <small>${ev.date} ${ev.start_time} às ${ev.end_time}</small>
+        </div>
+      `
+    })
+  })
