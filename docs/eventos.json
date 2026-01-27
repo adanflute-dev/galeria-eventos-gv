@@ -1,0 +1,99 @@
+[
+    {
+        "id": 21,
+        "titulo": "PROCISSÃO DE CINZAS PARÓQUIA NOSSA SENHORA DE LOURDES",
+        "descricao": null,
+        "data_inicio": "18\/02\/2026 18:00",
+        "data_fim": "18\/02\/2026 20:00",
+        "imagem": "images\/img_695c55ccbd8a3.png",
+        "galeria": [
+            "images\/img_695c55ccbd8a3.png",
+            "images\/img_695c6e3de2ff5.png"
+        ]
+    },
+    {
+        "id": 20,
+        "titulo": "BLOCO DE CARNAVAL DO PÉROLA",
+        "descricao": null,
+        "data_inicio": "31\/01\/2026 14:00",
+        "data_fim": "31\/01\/2026 23:00",
+        "imagem": "images\/img_695c55c1a62cd.png",
+        "galeria": [
+            "images\/img_695c55c1a62cd.png",
+            "images\/img_695c6e4c5953b.png"
+        ]
+    },
+    {
+        "id": 18,
+        "titulo": "NATAL",
+        "descricao": null,
+        "data_inicio": "25\/11\/2025 08:00",
+        "data_fim": "25\/11\/2025 12:00",
+        "imagem": "images\/img_6937321fb92a8.png",
+        "galeria": [
+            "images\/img_6937321fb92a8.png",
+            "images\/img_695c6e5aad8cc.png"
+        ]
+    },
+    {
+        "id": 17,
+        "titulo": "CORAL DOS SERVIDORES",
+        "descricao": null,
+        "data_inicio": "22\/11\/2025 19:00",
+        "data_fim": "22\/11\/2025 20:00",
+        "imagem": "images\/img_693731837d1c0.png",
+        "galeria": [
+            "images\/img_693731837d1c0.png",
+            "images\/img_695c6e6766265.png"
+        ]
+    },
+    {
+        "id": 7,
+        "titulo": "Recital Professora Patricia",
+        "descricao": null,
+        "data_inicio": "07\/11\/2025 19:00",
+        "data_fim": "07\/11\/2025 22:00",
+        "imagem": "images\/img_69373155201c9.png",
+        "galeria": [
+            "images\/img_69373155201c9.png",
+            "images\/img_6937322c6ecc2.png"
+        ]
+    },
+    {
+        "id": 6,
+        "titulo": "Festival do Torresmo",
+        "descricao": null,
+        "data_inicio": "03\/11\/2025 19:00",
+        "data_fim": "03\/11\/2025 22:00",
+        "imagem": "images\/img_693731db6dcd2.png",
+        "galeria": [
+            "images\/img_693731db6dcd2.png",
+            "images\/img_69373218aac5e.png"
+        ]
+    },
+    {
+        "id": 3,
+        "titulo": "Show na Praça",
+        "descricao": null,
+        "data_inicio": "05\/10\/2025 19:00",
+        "data_fim": "05\/10\/2025 22:00",
+        "imagem": "images\/img_68fa9880209c5.png",
+        "galeria": [
+            "images\/img_68fa9880209c5.png",
+            "images\/img_693731ba59af6.png",
+            "images\/img_693731cf9f70c.png"
+        ]
+    },
+    {
+        "id": 1,
+        "titulo": "Tetaro dos Palhaços",
+        "descricao": null,
+        "data_inicio": "04\/10\/2025 00:00",
+        "data_fim": "05\/10\/2025 00:00",
+        "imagem": "images\/galeria.png",
+        "galeria": [
+            "images\/galeria.png",
+            "images\/img_693731b1aedc9.png"
+        ]
+    }
+]
